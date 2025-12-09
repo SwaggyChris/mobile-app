@@ -1,0 +1,14 @@
+# Install dependencies
+npm install
+
+# Start the development server
+npx expo start
+
+# For web preview
+npx expo start --web
+
+# For iOS simulator (Mac only)
+npx expo start --ios
+
+# For Android emulator
+npx expo start --android
